@@ -1,0 +1,16 @@
+:root {
+    --div-background-color: black;
+    --text-color: cyan;
+}
+
+div {
+    color:aqua;
+}
+
+#English {
+    color: blueviolet;
+}    
+
+p {
+    font-family: Super;
+}
